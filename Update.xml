@@ -1,1 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0.1</version>
+  <url>https://github.com/NIPPAHEX/NIPPAHEX-Updater/releases/download/v1.0.0.1/NIPPAHEX_Setup.exe</url>
+  <changelog>https://pastebin.com/raw/YourPasteID</changelog>
+  <mandatory>false</mandatory>
+</item>
